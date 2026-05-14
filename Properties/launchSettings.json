@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PracticeWork10M4 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PracticeWork10M4 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
